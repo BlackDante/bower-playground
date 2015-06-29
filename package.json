@@ -1,0 +1,7 @@
+{
+  "name": "bower-example",
+  "version": "0.1.0",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}
